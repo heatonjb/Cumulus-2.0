@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-cumulus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-30 12:22+0100\n"
+"PO-Revision-Date: 2011-09-30 12:23+0100\n"
+"Last-Translator: Jonathan Heaton <jon@tuxebo.com>\n"
+"Language-Team: Tuxebo <cumulus@tuxebo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /Users/jon/code/wp-cumulus\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-cumulus.php:142
+#: wp-cumulus.php:167
+msgid "Settings"
+msgstr "Setttings (EN)"
+
+#: wp-cumulus.php:170
+#: lib/WPCumulusWidget.class.php:169
+msgid "Mode:"
+msgstr "Mode (EN):"
+
+#: wp-cumulus.php:180
+#: lib/WPCumulusWidget.class.php:176
+msgid "Width (pixels):"
+msgstr "Width (pixels):"
+
+#: wp-cumulus.php:184
+#: lib/WPCumulusWidget.class.php:177
+msgid "Height (pixels):"
+msgstr "Width (pixels):"
+
+#: wp-cumulus.php:188
+#: lib/WPCumulusWidget.class.php:178
+msgid "Tag color (hex values without \"#\"):"
+msgstr "Tag color (hex values without \"#\"):"
+
+#: wp-cumulus.php:192
+#: lib/WPCumulusWidget.class.php:182
+msgid "Tag hover color:"
+msgstr "Tag hover color:"
+
+#: wp-cumulus.php:196
+#: lib/WPCumulusWidget.class.php:183
+msgid "Background color:"
+msgstr "Background color:"
+
+#: wp-cumulus.php:200
+msgid "Transparent background:"
+msgstr "Transparent background:"
+
+#: wp-cumulus.php:204
+msgid "Font name:"
+msgstr "Font name:"
+
+#: wp-cumulus.php:216
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: lib/FooWidget.class.php:35
+msgid "New title"
+msgstr "New title"
+
+#: lib/FooWidget.class.php:39
+#: lib/WPCumulusWidget.class.php:168
+msgid "Title:"
+msgstr "Title:"
+
+#: lib/WPCumulusWidget.class.php:184
+msgid "Transparent background"
+msgstr "Transparent background"
+
+#: lib/WPCumulusWidget.class.php:185
+msgid "Maximum Tags"
+msgstr "Maximum Tags"
+
+#: lib/WPCumulusWidget.class.php:186
+msgid "Font Family"
+msgstr "Font Family"
+
